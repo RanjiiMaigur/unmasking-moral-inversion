@@ -1,11 +1,10 @@
-# unmasking-moral-inversion
-Illustrated essay on narrative framing and moral inversion
-Unmasking Moral Inversion
-How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
+# Unmasking Moral Inversion
+## How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
+
 
 
 Unmasking Moral Inversion How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
-(The title intentionally replaces “Propaganda Machine” to signal analysis, not conspiracy.)
+
 
 Introduction — What This Pamphlet Argues (and What It Does Not)
 This pamphlet is not a denial of Palestinian civilian suffering. A legitimate subjects of criticism and moral concern.
@@ -120,4 +119,23 @@ Selected References
 8. Turkish court records; international intelligence briefings
 9. Middle East Forum reports; university case records
 10. Amnesty International, Iran protest crackdowns, 2022–2023
+
+
+
+
+**Content note:** This project discusses terrorism and political violence for analysis and critique. Nothing here endorses violence.
+
+---
+
+![Panel 4](intro_panel_04.png)
+
+![Panel 5](intro_panel_05.png)
+
+![Panel 6](intro_panel_06.png)
+
+![Panel 7](intro_panel_07.png)
+
+![Panel 8](intro_panel_08.png)
+
+![Panel 9](intro_panel_09.png)
 
