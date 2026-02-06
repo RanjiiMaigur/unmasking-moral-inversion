@@ -31,7 +31,6 @@ This produces moral inversion: a condition in which perpetrators are aestheticiz
 This mechanism has appeared across history—from wartime propaganda to Cold War disinformation—but today it is amplified by cultural production, activist signaling, and digital media cycles.¹
 
 
-![Panel 6](intro_panel_06.png)
 
 Section II — Case Study: Hanadi Jaradat
 The Event
