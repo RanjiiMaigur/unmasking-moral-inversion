@@ -7,7 +7,6 @@
 
 Unmasking Moral Inversion How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
 
-![Panel 6](intro_panel_06.png)
 
 
 
