@@ -3,7 +3,7 @@ Illustrated essay on narrative framing and moral inversion
 Unmasking Moral Inversion
 How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
 
-Front Cover
+
 Unmasking Moral Inversion How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
 (The title intentionally replaces “Propaganda Machine” to signal analysis, not conspiracy.)
 
