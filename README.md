@@ -1,9 +1,15 @@
 # Unmasking Moral Inversion
 ## How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
 
+![Panel 4](intro_panel_04.png)
+
 
 
 Unmasking Moral Inversion How Terrorism Is Reframed Through Culture, Activism, and Selective Outrage
+
+![Panel 6](intro_panel_06.png)
+
+
 
 
 Introduction — What This Pamphlet Argues (and What It Does Not)
@@ -13,6 +19,10 @@ The central claim is this:
 When violence is stripped of agency, intent, and victims, it becomes propaganda—regardless of the cause it is attached to.
 This document traces the process by which that transformation occurs.
 
+![Panel 5](intro_panel_05.png)
+
+
+
 Section I — Propaganda Beyond Lies: Moral Inversion as Method
 Modern propaganda rarely relies on false facts alone. More often, it relies on selective framing:
 * identity is emphasized over action,
@@ -20,6 +30,9 @@ Modern propaganda rarely relies on false facts alone. More often, it relies on s
 * symbolism over consequence.
 This produces moral inversion: a condition in which perpetrators are aestheticized as victims, while victims themselves disappear from public consciousness.
 This mechanism has appeared across history—from wartime propaganda to Cold War disinformation—but today it is amplified by cultural production, activist signaling, and digital media cycles.¹
+
+
+![Panel 6](intro_panel_06.png)
 
 Section II — Case Study: Hanadi Jaradat
 The Event
@@ -31,6 +44,8 @@ The attack:
 * destroyed a venue co-owned by Jewish and Arab Israeli families, widely known as a symbol of coexistence.²
 These facts are uncontested and documented in contemporaneous reporting and official records.³ Jaradat was not a civilian killed in conflict; she was the agent of the violence itself.
 
+![Panel 7](intro_panel_07.png)
+
 The Reframing
 In subsequent cultural and activist representations, Jaradat increasingly appears not as a perpetrator but as:
 * a symbol of resistance,
@@ -38,6 +53,9 @@ In subsequent cultural and activist representations, Jaradat increasingly appear
 * or a martyr figure abstracted from her actions.
 The bombing itself is frequently minimized, backgrounded, or omitted. This is not simple misinformation. It is narrative displacement:
 violence remains present, but responsibility dissolves.
+
+
+![Panel 8](intro_panel_08.png)
 
 Section III — Gendered Exploitation in Islamist Terrorism
 The use of women in Islamist terror campaigns is neither accidental nor emancipatory.
@@ -121,21 +139,19 @@ Selected References
 10. Amnesty International, Iran protest crackdowns, 2022–2023
 
 
+![Panel 9](intro_panel_09.png)
 
 
 **Content note:** This project discusses terrorism and political violence for analysis and critique. Nothing here endorses violence.
 
 ---
 
-![Panel 4](intro_panel_04.png)
 
-![Panel 5](intro_panel_05.png)
 
-![Panel 6](intro_panel_06.png)
 
-![Panel 7](intro_panel_07.png)
 
-![Panel 8](intro_panel_08.png)
 
-![Panel 9](intro_panel_09.png)
+
+
+
 
