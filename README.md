@@ -12,8 +12,9 @@ Unmasking Moral Inversion How Terrorism Is Reframed Through Culture, Activism,
 
 
 Introduction — What This Pamphlet Argues (and What It Does Not)
-This pamphlet is not a denial of Palestinian civilian suffering. A legitimate subjects of criticism and moral concern.
-Its purpose is narrower and more difficult  to examine how acts of terrorism against civilians are rhetorically transformed into moral symbols, and how this transformation spreads through culture, academia, media, and activist networks—often without malicious intent by those who later amplify it.
+ 
+ This pamphlet is not a denial of Palestinian civilian suffering which is a legitimate subject of criticism and moral concern.
+Its purpose is narrower and more difficult  to examine by how acts of terrorism against civilians are rhetorically transformed into moral symbols, and how this transformation spreads through culture, academia, media, and activist networks—often with malicious intent by those who later amplify it.
 
 
 The central claim is this:
