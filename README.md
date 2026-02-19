@@ -26,6 +26,7 @@ This document traces the process by which that transformation occurs.
 
 
 Section I — Propaganda Beyond Lies: Moral Inversion as Method
+
 Modern propaganda rarely relies on false facts alone. More often, it relies on selective framing:
 * identity is emphasized over action,
 * context over responsibility,
@@ -36,6 +37,8 @@ This mechanism has appeared across history—from wartime propaganda to Cold War
 
 
 Section II — Case Study: Hanadi Jaradat
+
+
 The Event
 On October 4, 2003, Hanadi Jaradat, a member of Palestinian Islamic Jihad, carried out a suicide bombing at the Maxim restaurant in Haifa, Israel.
 The attack:
@@ -59,6 +62,8 @@ violence remains present, but responsibility dissolves.
 ![Panel 8](intro_panel_08.png)
 
 Section III — Gendered Exploitation in Islamist Terrorism
+
+
 The use of women in Islamist terror campaigns is neither accidental nor emancipatory.
 Security and counter-terrorism research consistently shows that women are deployed because they:
 * attract lower suspicion thresholds,
@@ -73,6 +78,8 @@ To reframe such deployment as feminist resistance is to erase coercion while aes
 
 Section IV — Cultural Mediation and Aesthetic Laundering
 The Dror Feiler Exhibition
+
+
 In the early 2000s, an art exhibition involving Dror Feiler featured Hanadi Jaradat depicted floating serenely in a small boat on a “sea of blood.”
 The issue here is not provocation. Provocation is a legitimate artistic strategy.
 The issue is aesthetic laundering:
@@ -82,6 +89,8 @@ The issue is aesthetic laundering:
 This does not document reality; it restructures moral perception. Art, in this context, becomes a mechanism of moral displacement, not critique.⁶
 
 Section V — From Cultural Space to Activist Infrastructure
+
+
 Symbolic narratives do not remain confined to galleries or academic discourse. They migrate:
 * into NGOs,
 * activist networks,
@@ -93,6 +102,8 @@ Subsequent investigations established that some participants were affiliated wit
 Symbolism travels faster than facts.
 
 Section VI — Academia, Media, and Narrative Reinforcement
+
+
 Academic and media institutions do not create terrorism, but they can reframe it.
 Documented cases show:
 * academic figures and institutions reinterpreting jihadist violence as “resistance,”
@@ -101,6 +112,8 @@ Documented cases show:
 This does not require coordination. It emerges from ideological incentives, reputational pressures, and moral simplification.
 
 Section VII — Selective Outrage and Moral Asymmetry
+
+
 A defining feature of contemporary activism is asymmetrical mobilization.
 In recent years:
 * Iranian protesters—many of them women—have been imprisoned, tortured, or killed by the Islamic Revolutionary Guard Corps (IRGC),
@@ -110,6 +123,8 @@ Why does outrage mobilize instantly in some contexts, but remain muted in others
 The answer lies less in compassion than in narrative compatibility.
 
 Section VIII — Anti-Zionism, Jewish Dissent, and Category Collapse
+
+
 Many Jewish individuals oppose Zionism or Israeli state policy, often from liberal or universalist positions.
 However, contemporary activism frequently collapses distinctions:
 * between anti-Zionism and antisemitic tropes,
